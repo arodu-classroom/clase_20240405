@@ -22,7 +22,7 @@ npm start
 
 5. abrir el navegador en la dirección `http://localhost:3000/`
 
-6. instalar git https://git-scm.com/download/win
+6. instalar git https://git-scm.com/downloads
 
 7. inicializar git
 ```
